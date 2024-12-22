@@ -1,0 +1,21 @@
+.tableStyle caption {
+    color: black;
+    font-size: 30px;
+}
+
+.tableStyle {
+    width: 100%;
+
+   
+}
+.tableStyle th {
+   background-color: #6f6; 
+}
+
+.tableStyle .par {
+    background-color: rgba(0, 255, 255, 0.616);
+}
+
+.tableStyle .impar {
+    background-color: rgba(0, 238, 255, 0.44);
+}
